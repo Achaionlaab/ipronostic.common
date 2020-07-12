@@ -7,4 +7,4 @@ const GraphQLErrors = {
 	},
 };
 
-export default GraphQLErrors;
+exports.default = GraphQLErrors;
