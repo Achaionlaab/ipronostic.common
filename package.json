@@ -1,0 +1,8 @@
+{
+  "name": "ipronostic.common",
+  "version": "0.0.0",
+  "repository": "https://github.com/ybmhomy/ipronostic.common.git",
+  "author": "yair <yairopro@gmail.com>",
+  "license": "none",
+  "private": true
+}
