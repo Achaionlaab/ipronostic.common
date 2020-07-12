@@ -1,4 +1,4 @@
-const GraphQLErrors = {
+module.exports = {
 	refreshToken: {
 		extensions: {
 			code: "REFRESH TOKEN",
@@ -6,5 +6,3 @@ const GraphQLErrors = {
 		}
 	},
 };
-
-exports.default = GraphQLErrors;
