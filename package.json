@@ -4,5 +4,9 @@
   "repository": "https://github.com/ybmhomy/ipronostic.common.git",
   "author": "yair <yairopro@gmail.com>",
   "license": "none",
-  "private": true
+  "private": true,
+  "devDependencies": {
+    "gtd-scripts": "https://github.com/tewen/gtd-scripts",
+    "ramda": "^0.27.1"
+  }
 }
