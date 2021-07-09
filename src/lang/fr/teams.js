@@ -1,6 +1,4 @@
-const asDictionary = require("../asDictionary");
-
-module.exports = asDictionary({
+module.exports = {
 	"Belgium": "Belgique",
 	"France": "France",
 	"Croatia": "Croatie",
@@ -209,4 +207,4 @@ module.exports = asDictionary({
 	"CFR 1907 Cluj": "CFR 1907 Cluj",
 	"Dinamo Tbilisi": "Dinamo Tbilissi",
 	"Hibernians": "Hiberniens",
-});
+};
