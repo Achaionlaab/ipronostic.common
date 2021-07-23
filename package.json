@@ -6,7 +6,6 @@
   "license": "none",
   "private": true,
   "devDependencies": {
-    "gtd-scripts": "https://github.com/tewen/gtd-scripts",
     "ramda": "^0.27.1"
   }
 }
